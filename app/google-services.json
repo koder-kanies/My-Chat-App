@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "309484747002",
-    "project_id": "my-chat-app-c0d65",
-    "storage_bucket": "my-chat-app-c0d65.appspot.com"
+    "project_number": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:309484747002:android:6e78d90fe356f0c3913143",
+        "mobilesdk_app_id": "",
         "android_client_info": {
-          "package_name": "com.koderkanies.mychatapp"
+          "package_name": ""
         }
       },
       "oauth_client": [
         {
-          "client_id": "309484747002-cs0brlovpsu221i32ou3li764a19v3bt.apps.googleusercontent.com",
-          "client_type": 3
+          "client_id": "",
+          "client_type": 
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB4il16aASu2WhfwXXRFWwK7QdZsQOiQTA"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "309484747002-cs0brlovpsu221i32ou3li764a19v3bt.apps.googleusercontent.com",
-              "client_type": 3
+              "client_id": "",
+              "client_type": 
             }
           ]
         }
@@ -37,3 +37,4 @@
   ],
   "configuration_version": "1"
 }
+ //Write all the configuration from Firebase App .

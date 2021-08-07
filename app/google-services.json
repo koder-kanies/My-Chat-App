@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309484747002",
+    "project_id": "my-chat-app-c0d65",
+    "storage_bucket": "my-chat-app-c0d65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309484747002:android:6e78d90fe356f0c3913143",
+        "android_client_info": {
+          "package_name": "com.koderkanies.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309484747002-cs0brlovpsu221i32ou3li764a19v3bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4il16aASu2WhfwXXRFWwK7QdZsQOiQTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309484747002-cs0brlovpsu221i32ou3li764a19v3bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

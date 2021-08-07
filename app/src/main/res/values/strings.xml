@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Chat</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="send">Send</string>
+    <string name="image">Image</string>
+    <string name="message_here">Message here</string>
+    <string name="DOB">Date of Birth</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="email">Email address</string>
+    <string name="username">Username</string>
+    <string name="contact">Contact Number</string>
+    <string name="bio">Bio</string>
+    <string name="profile">Profile</string>
+    <string name="message">Message</string>
+</resources>
